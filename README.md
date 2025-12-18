@@ -17,8 +17,7 @@ It is designed as a portfolio for internship applications at CHANGE Networks Pvt
 - HuggingFace Transformers
 
 # Student Performance Prediction
-# Author: Aniket [Your Last Name]
-# Navi Mumbai, India
+# Author: Aniket Wable
 
 # 1. Import libraries
 import pandas as pd
@@ -67,8 +66,7 @@ plt.title("Actual vs Predicted Exam Scores")
 plt.show()
 
 # FAQ Chatbot using NLP
-# Author: Aniket [Your Last Name]
-# Navi Mumbai, India
+# Author: Aniket Wable
 
 # 1. Import libraries
 import random
@@ -119,8 +117,7 @@ while True:
     print("Chatbot:", response)
 
     # Face Mask Detection using CNN
-# Author: Aniket [Your Last Name]
-# Navi Mumbai, India
+# Author: Aniket Wable
 
 # 1. Import libraries
 import tensorflow as tf
@@ -177,8 +174,7 @@ plt.show()
 model.save("face_mask_detector.h5")
 
 # Disease Prediction using ML
-# Author: Aniket [Your Last Name]
-# Navi Mumbai, India
+# Author: Aniket Wable
 
 # 1. Import libraries
 import pandas as pd
